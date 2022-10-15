@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "UM",
+      "type": "income",
+      "category": "Venda",
+      "price": 1100,
+      "createdAt": "2022-10-15T22:32:34.207Z"
+    },
+    {
+      "id": 2,
+      "description": "Dois",
+      "type": "outcome",
+      "category": "compra",
+      "price": 100,
+      "createdAt": "2022-10-15T22:32:34.207Z"
+    },
+    {
+      "id": 3,
+      "description": "TRES",
+      "type": "income",
+      "category": "Venda",
+      "price": 200,
+      "createdAt": "2022-10-15T22:32:34.207Z"
+    }
+  ]
+}
