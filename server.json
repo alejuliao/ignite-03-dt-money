@@ -23,6 +23,30 @@
       "category": "Venda",
       "price": 200,
       "createdAt": "2022-10-15T22:32:34.207Z"
+    },
+    {
+      "description": "quatro",
+      "price": 390,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2022-10-16T04:03:56.274Z",
+      "id": 4
+    },
+    {
+      "description": "dasd",
+      "price": 123,
+      "category": "asdasd",
+      "type": "income",
+      "createdAt": "2022-10-16T04:19:23.939Z",
+      "id": 5
+    },
+    {
+      "description": "wqweqwe",
+      "price": 3333,
+      "category": "asdasdasd",
+      "type": "income",
+      "createdAt": "2022-10-16T04:20:01.444Z",
+      "id": 6
     }
   ]
 }
